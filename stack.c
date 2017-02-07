@@ -1,9 +1,12 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+int str = 0;
 int Stack[10];
 int main(){
 	int i=0,select;
 
+	//이게 뭐얔ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Hosung.
 	printf("push : 1 pop : 2 end : 3\n");
 	scanf("%d",&select);
 	while(1){
